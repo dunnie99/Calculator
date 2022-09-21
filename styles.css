@@ -6,11 +6,16 @@
     box-lines: 70px;
 }
 
+<<<<<<< HEAD
 #curr-display {
+=======
+#display {
+>>>>>>> 3d914f0bb3575301d37463528de80e5f19e35ecb
     text-align: right;
     height: 70px;
     line-height: 70px;
     padding: 16px 8px;
+<<<<<<< HEAD
     font-size: 27px;
     background-color: black;
     color: whitesmoke;
@@ -29,6 +34,12 @@
     word-wrap: break-word;
     word-break: break-all;
 }
+=======
+    font-size: 25px;
+}
+
+
+>>>>>>> 3d914f0bb3575301d37463528de80e5f19e35ecb
 
 .buttons {
     display: grid;
@@ -58,5 +69,9 @@
 .button:hover { 
     background-color: black;
     color: white;
+<<<<<<< HEAD
     transition: o.5 sec ease-in-out;
+=======
+    transition: 0.5 sec ease-in-out;
+>>>>>>> 3d914f0bb3575301d37463528de80e5f19e35ecb
 } 
